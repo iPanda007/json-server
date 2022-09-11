@@ -1,0 +1,144 @@
+{
+ "products": [
+   {
+    "id":1,
+    "title": "Product 11",
+    "category" : "SUZUKI",
+    "price" : "3300",
+    "description" : "Description for product 11."
+   },
+   {
+    "id":2,
+    "title": "Product 2",
+    "category" : "Honda",
+    "price" : "40000",
+    "description" : "Vestibulum quam sapien."
+   },
+   {
+    "id":3,
+    "title": "Product 3",
+    "category" : "BMW",
+    "price" : "500",
+    "description" : "Cars mi pede, malseuda in ,"
+   },
+   {
+    "id":4,
+    "title": "Product 4",
+    "category" : "SUZUKI",
+    "price" : "200000",
+    "description" : " ecge ti mpt"
+   },
+   {
+    "id":5,
+    "title": "Product 5",
+    "category" : "SUZUKI",
+    "price" : "40000",
+    "description" : "Description for product 11."
+   },
+   {
+    "id":6,
+    "title": "Product 6",
+    "category" : "SUZUKI",
+    "price" : "10000",
+    "description" : "Description for product 11."
+   },
+   {
+    "id":7,
+    "title": "Product 7",
+    "category" : "Honda",
+    "price" : "90000",
+    "description" : "Description for product 11."
+   },
+   {
+    "id":8,
+    "title": "Product 8",
+    "category" : "Honda",
+    "price" : "3300",
+    "description" : "Description for product 11."
+   },
+   {
+    "id":9,
+    "title": "Product 9",
+    "category" : "SUZUKI",
+    "price" : "3300",
+    "description" : "Description for product 11."
+   },
+   {
+    "id":10,
+    "title": "Product 10",
+    "category" : "Honda",
+    "price" : "3300",
+    "description" : "Description for product 11.",
+    "disount":{
+        "type":"shipping"
+    }
+   }
+
+ ],
+ "reviews":[
+     {
+        "id":1,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":10
+     },
+     {
+        "id":2,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":8
+     },
+     {
+        "id":3,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":7
+     },
+     {
+        "id":4,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":9
+     },
+     {
+        "id":5,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":5
+     },
+     {
+        "id":6,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":6
+     },
+     {
+        "id":7,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":4
+     },
+     {
+        "id":8,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":3
+     },
+     {
+        "id":9,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":2
+     },
+     {
+        "id":10,
+        "rating":4,
+        "comment": "Curabitur at ipsum ac tellus semper interdum.",
+        "productId":1,
+        "description":{
+            "type" :"Aung Kyaw Khaing"
+        }
+     }
+
+ ]
+}
